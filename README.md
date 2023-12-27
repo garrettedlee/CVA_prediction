@@ -1,7 +1,5 @@
 # CVA_prediction
 
-The following research project was a part of my entry into a Kaggle Competition. 
-
 Context: According to the World Health Organization (WHO) cerebrovascular accident (stroke) is the 2nd leading cause of death globally, 
 responsible for approximately 11% of total deaths.
 
